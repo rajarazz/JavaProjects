@@ -982,6 +982,6 @@ class TButton extends AbstractButton implements MouseListener {
 		repaint();
 	}
 
-	public void mouseClicked(MouseEvent e) {raja
+	public void mouseClicked(MouseEvent e) {suresh
 	}
 }
